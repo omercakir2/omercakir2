@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">-For the last 6 months , I've been using C language because of my lectures<br>-I am solving leetcode questions as much as I can<br>-Currently working on DSA<br>-I have done little projects using Django <br>-I've done some 2D games using Unity<br>-I am kinda familiar with CSS,HTML,and JS<br>-Taking linux lecture lately</h3>
+<h3 align="left">-I am passionate about Computers and I always try to learn<br>-For the last 6 months , I've been using C language because of my lectures<br>-I am solving leetcode questions as much as I can<br>-Currently working on DSA<br>-I have done little projects using Django <br>-I've done some 2D games using Unity<br>-I am kinda familiar with CSS,HTML,and JS<br>-Taking linux lecture lately</h3>
 
 ###
 
