@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="left">Hi 👋! My name is Ömer and I'm a CTIS student in Bilkent University</h1>
+<h1 align="left">Hi 👋! My name is Ömer and I'm a 2nd year CTIS student in Bilkent University</h1>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">-I am passionate about Computers and I always try to learn<br>-For the last two semesters , I've been using C language due to lectures<br>-I am solving leetcode questions as much as I can<br>-Currently working on Django and DSA<br>-<br>-I've done some 2D games using Unity<br>-I am kinda familiar with CSS,HTML,and JS<br>-I have knowlage about linux</h3>
+<h3 align="left">-I like coding and learning something new<br>-For the last 3 semesters , I've been using C language, Java and Frontend technologies<br>-I love solving leetcode questions as much as I can<br>-Currently working on Django, Frontend Tech, and DBMS<br>-<br>-I've done some 2D games using Unity<br><br>-I prefet to use unix-like OS</h3>
 
 ###
 
