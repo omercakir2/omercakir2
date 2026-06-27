@@ -45,29 +45,3 @@
   <a href="https://www.linkedin.com/in/%C3%B6mer-%C3%A7ak%C4%B1r-b0aa74284/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<h3 align="left">-I like coding and learning something new<br>-For the last 3 semesters , I've been using C language, Java and Frontend technologies<br>-I love solving leetcode questions as much as I can<br>-Currently working on Django, Frontend Tech, and DBMS<br>-<br>-I've done some 2D games using Unity<br><br>-I prefet to use unix-like OS</h3>
-
-###
-
-<h2 align="left">How to reach me omercakir2323@gmail.com<br><br>My leetcode profile https://leetcode.com/u/omercakir2/<br><br>My linkedin profile https://www.linkedin.com/in/%C3%B6mer-%C3%A7ak%C4%B1r-b0aa74284/</h2>
-
-###
-
-<!--
-**omercakir2/omercakir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
